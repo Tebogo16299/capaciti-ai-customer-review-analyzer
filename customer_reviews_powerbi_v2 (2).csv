@@ -1,0 +1,401 @@
+Review_ID;Customer_ID;Product_Category;Product;Customer_Review;Rating;Purchase_Channel;Customer_City;Review_Date;Sentiment_Polarity;Sentiment_Predicted;Needs_Follow_Up;Sentiment
+REV0001;CUST1174;Electronics;Wireless Headphones;Excellent quality and very happy with my purchase. It was easy to order online.;5;Website;Pretoria;2026/02/22;0.8111111111111112;Positive;FALSE;Positive
+REV0002;CUST1144;Beauty;Body Lotion;Very disappointing product. It did not work properly. I had trouble getting help from support.;1;Mobile App;Bloemfontein;2026/01/14;-0.32666666666666666;Negative;TRUE;Negative
+REV0003;CUST1179;Computers;Laptop Stand;The product is very good and works well.;4;Mobile App;Cape Town;2026/03/23;0.9099999999999999;Positive;FALSE;Positive
+REV0004;CUST1092;Mobile;Screen Protector;Average product. It does the job. Delivery was average.;3;Website;Durban;2026/02/19;-0.15;Negative;TRUE;Negative
+REV0005;CUST1148;Electronics;Power Bank;The quality is good and I would recommend it. Delivery was reasonable.;4;Mobile App;Pretoria;2026/07/05;0.44999999999999996;Positive;FALSE;Positive
+REV0006;CUST1098;Electronics;Bluetooth Speaker;I love this product and it works perfectly.;5;Website;Gqeberha;2026/02/21;0.75;Positive;FALSE;Positive
+REV0007;CUST1156;Mobile;Screen Protector;It works as expected, although there is room for improvement.;3;Mobile App;Polokwane;2026/02/06;-0.1;Negative;TRUE;Negative
+REV0008;CUST1059;Computers;Laptop Stand;I am satisfied, but I expected a little more. Delivery was average.;3;Website;Cape Town;2026/01/29;0.1125;Positive;FALSE;Positive
+REV0009;CUST1055;Home;Coffee Mug;The item was completely different from what I expected.;1;Mobile App;Bloemfontein;2026/06/11;-0.05;Negative;TRUE;Negative
+REV0010;CUST1192;Home;Storage Box;It works as expected, although there is room for improvement.;3;Website;Bloemfontein;2026/05/15;-0.1;Negative;TRUE;Negative
+REV0011;CUST1194;Beauty;Body Lotion;It works as expected, although there is room for improvement.;3;Website;Pretoria;2026/02/16;-0.1;Negative;TRUE;Negative
+REV0012;CUST1098;Computers;Wireless Mouse;Amazing product. I would definitely buy it again.;5;Website;Gqeberha;2026/07/17;0.30000000000000004;Positive;FALSE;Positive
+REV0013;CUST1175;Beauty;Makeup Bag;The product looks great and works even better than expected.;5;Website;Durban;2026/02/28;0.39999999999999997;Positive;FALSE;Positive
+REV0014;CUST1249;Mobile;Phone Case;It works as expected, although there is room for improvement.;3;Website;Tzaneen;2026/05/15;-0.1;Negative;TRUE;Negative
+REV0015;CUST1156;Beauty;Hair Dryer;The product is exactly what I expected and arrived quickly.;5;Mobile App;Tzaneen;2026/09/17;0.1611111111111111;Positive;FALSE;Positive
+REV0016;CUST1126;Mobile;Screen Protector;I like the product. It could be slightly better, but overall it is good.;4;Website;Pretoria;2026/06/15;0.39999999999999997;Positive;FALSE;Positive
+REV0017;CUST1022;Mobile;Fast Charger;It works as expected, although there is room for improvement.;3;Mobile App;Pretoria;2026/02/10;-0.1;Negative;TRUE;Negative
+REV0018;CUST1068;Beauty;Skin Care Set;I expected better quality for the price.;2;Website;Bloemfontein;2026/03/26;0.2;Positive;FALSE;Positive
+REV0019;CUST1172;Computers;Webcam;I am extremely happy with this purchase. The delivery driver was friendly.;5;Website;Gqeberha;2026/07/24;0.5875;Positive;FALSE;Positive
+REV0020;CUST1151;Beauty;Body Lotion;The quality was disappointing and not as expected. The packaging was damaged.;2;Mobile App;Johannesburg;2026/04/28;-0.35;Negative;TRUE;Negative
+REV0021;CUST1132;Electronics;Wireless Headphones;The product is okay but nothing special.;3;Mobile App;Durban;2026/02/06;0.4285714285714286;Positive;FALSE;Positive
+REV0022;CUST1201;Home;Storage Box;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Bloemfontein;2026/05/05;0.39999999999999997;Positive;FALSE;Positive
+REV0023;CUST1120;Computers;Laptop Bag;I expected better quality for the price.;2;Website;Pretoria;2026/07/30;0.2;Positive;FALSE;Positive
+REV0024;CUST1050;Electronics;Power Bank;The product looks great and works even better than expected.;5;Mobile App;Gqeberha;2026/05/08;0.39999999999999997;Positive;FALSE;Positive
+REV0025;CUST1207;Computers;Laptop Stand;I expected better quality for the price. The packaging was damaged.;2;Website;Pretoria;2026/08/15;-0.1;Negative;TRUE;Negative
+REV0026;CUST1043;Electronics;USB-C Charger;I love this product and it works perfectly.;5;Mobile App;Gqeberha;2026/05/02;0.75;Positive;FALSE;Positive
+REV0027;CUST1068;Home;Storage Box;I love this product and it works perfectly. The packaging was also excellent.;5;Mobile App;Durban;2026/07/19;0.8333333333333334;Positive;FALSE;Positive
+REV0028;CUST1248;Home;Bedside Organizer;Amazing product. I would definitely buy it again. The delivery driver was friendly.;5;Website;Johannesburg;2026/04/22;0.325;Positive;FALSE;Positive
+REV0029;CUST1041;Mobile;Phone Case;Terrible experience. I would not recommend this product.;1;Website;Pretoria;2026/09/29;-1.0;Negative;TRUE;Negative
+REV0030;CUST1149;Computers;Laptop Bag;I am happy with the quality and delivery.;4;Website;Johannesburg;2026/05/07;0.8;Positive;FALSE;Positive
+REV0031;CUST1240;Beauty;Hair Dryer;I like the product. It could be slightly better, but overall it is good.;4;Website;Polokwane;2026/06/11;0.39999999999999997;Positive;FALSE;Positive
+REV0032;CUST1118;Mobile;Screen Protector;It works as expected, although there is room for improvement.;3;Website;Pretoria;2026/06/03;-0.1;Negative;TRUE;Negative
+REV0033;CUST1138;Electronics;Power Bank;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Durban;2026/02/07;0.39999999999999997;Positive;FALSE;Positive
+REV0034;CUST1113;Computers;Keyboard;Excellent quality and very happy with my purchase.;5;Website;Durban;2026/03/22;1.0;Positive;FALSE;Positive
+REV0035;CUST1241;Beauty;Hair Brush;The item was completely different from what I expected.;1;Mobile App;Durban;2026/02/23;-0.05;Negative;TRUE;Negative
+REV0036;CUST1184;Electronics;Wireless Headphones;Excellent quality and very happy with my purchase.;5;Website;Polokwane;2026/04/18;1.0;Positive;FALSE;Positive
+REV0037;CUST1012;Mobile;Phone Holder;The product is very good and works well. Delivery was reasonable.;4;Website;Cape Town;2026/05/22;0.5549999999999999;Positive;FALSE;Positive
+REV0038;CUST1144;Computers;Keyboard;I expected better quality for the price.;2;Website;Pretoria;2026/08/07;0.2;Positive;FALSE;Positive
+REV0039;CUST1111;Electronics;Bluetooth Speaker;Good product overall and it arrived on time.;4;Mobile App;Johannesburg;2026/03/17;0.35;Positive;FALSE;Positive
+REV0040;CUST1231;Mobile;Fast Charger;The product looks great and works even better than expected.;5;Website;Polokwane;2026/01/21;0.39999999999999997;Positive;FALSE;Positive
+REV0041;CUST1250;Computers;Laptop Bag;I am satisfied, but I expected a little more.;3;Website;Tzaneen;2026/07/28;0.178125;Positive;FALSE;Positive
+REV0042;CUST1046;Computers;Wireless Mouse;The product looks great and works even better than expected. The delivery driver was friendly.;5;Website;Bloemfontein;2026/01/13;0.39375;Positive;FALSE;Positive
+REV0043;CUST1057;Computers;Keyboard;I am not happy with the quality. The packaging was damaged.;2;Mobile App;Gqeberha;2026/08/29;-0.4;Negative;TRUE;Negative
+REV0044;CUST1103;Mobile;Fast Charger;The product looks great and works even better than expected. The packaging was also excellent.;5;Website;Durban;2026/04/09;0.55;Positive;FALSE;Positive
+REV0045;CUST1241;Electronics;Smart Watch;I am satisfied, but I expected a little more.;3;Website;Pretoria;2026/06/19;0.178125;Positive;FALSE;Positive
+REV0046;CUST1089;Mobile;Screen Protector;Good product overall and it arrived on time. Ordering was simple.;4;Website;Bloemfontein;2026/08/11;0.2333333333333333;Positive;FALSE;Positive
+REV0047;CUST1001;Beauty;Hair Brush;The product works, but there are several issues with it. The packaging was damaged.;2;Website;Polokwane;2026/08/12;-0.1;Negative;TRUE;Negative
+REV0048;CUST1170;Mobile;Earbuds;Very poor quality and a waste of money.;1;Website;Durban;2026/06/10;-0.36;Negative;TRUE;Negative
+REV0049;CUST1142;Beauty;Makeup Bag;The product is exactly what I expected and arrived quickly.;5;Mobile App;Polokwane;2026/06/01;0.1611111111111111;Positive;FALSE;Positive
+REV0050;CUST1104;Home;Electric Kettle;Excellent quality and very happy with my purchase.;5;Website;Johannesburg;2026/06/04;1.0;Positive;FALSE;Positive
+REV0051;CUST1120;Mobile;Fast Charger;I am satisfied, but I expected a little more.;3;Mobile App;Gqeberha;2026/06/14;0.178125;Positive;FALSE;Positive
+REV0052;CUST1132;Computers;Webcam;I am happy with the quality and delivery.;4;Website;Cape Town;2026/05/26;0.8;Positive;FALSE;Positive
+REV0053;CUST1007;Electronics;Bluetooth Speaker;Excellent quality and very happy with my purchase.;5;Website;Polokwane;2026/03/17;1.0;Positive;FALSE;Positive
+REV0054;CUST1184;Home;Bedside Organizer;I love this product and it works perfectly.;5;Mobile App;Gqeberha;2026/04/10;0.75;Positive;FALSE;Positive
+REV0055;CUST1057;Home;Storage Box;I am not happy with the quality. The packaging was damaged.;2;Mobile App;Gqeberha;2026/08/06;-0.4;Negative;TRUE;Negative
+REV0056;CUST1171;Electronics;USB-C Charger;The product is okay but nothing special.;3;Website;Cape Town;2026/08/26;0.4285714285714286;Positive;FALSE;Positive
+REV0057;CUST1230;Home;Bedside Organizer;Very good quality and the delivery was fast.;5;Mobile App;Gqeberha;2026/08/17;0.5549999999999999;Positive;FALSE;Positive
+REV0058;CUST1125;Home;Coffee Mug;The product looks great and works even better than expected.;5;Mobile App;Durban;2026/09/24;0.39999999999999997;Positive;FALSE;Positive
+REV0059;CUST1229;Home;Desk Lamp;Excellent quality and very happy with my purchase.;5;Website;Pretoria;2026/06/13;1.0;Positive;FALSE;Positive
+REV0060;CUST1107;Computers;Wireless Mouse;It works as expected, although there is room for improvement.;3;Mobile App;Cape Town;2026/02/02;-0.1;Negative;TRUE;Negative
+REV0061;CUST1232;Beauty;Body Lotion;I am happy with the quality and delivery.;4;Website;Johannesburg;2026/07/19;0.8;Positive;FALSE;Positive
+REV0062;CUST1219;Beauty;Body Lotion;Good product overall and it arrived on time.;4;Mobile App;Polokwane;2026/07/19;0.35;Positive;FALSE;Positive
+REV0063;CUST1186;Home;Storage Box;The quality is acceptable for the price. Delivery was average.;3;Mobile App;Gqeberha;2026/07/27;-0.15;Negative;TRUE;Negative
+REV0064;CUST1022;Computers;Webcam;The quality is good and I would recommend it.;4;Mobile App;Tzaneen;2026/01/14;0.7;Positive;FALSE;Positive
+REV0065;CUST1084;Home;Storage Box;Terrible experience. I would not recommend this product.;1;Website;Bloemfontein;2026/08/21;-1.0;Negative;TRUE;Negative
+REV0066;CUST1244;Mobile;Earbuds;The product is okay but nothing special.;3;Website;Polokwane;2026/01/27;0.4285714285714286;Positive;FALSE;Positive
+REV0067;CUST1062;Electronics;Wireless Headphones;Excellent quality and very happy with my purchase. The packaging was also excellent.;5;Mobile App;Gqeberha;2026/03/20;1.0;Positive;FALSE;Positive
+REV0068;CUST1043;Electronics;USB-C Charger;Amazing product. I would definitely buy it again.;5;Website;Pretoria;2026/07/08;0.30000000000000004;Positive;FALSE;Positive
+REV0069;CUST1102;Computers;Keyboard;The product stopped working after a short time.;2;Mobile App;Pretoria;2026/07/12;0.0;Neutral;FALSE;Neutral
+REV0070;CUST1204;Beauty;Skin Care Set;Delivery was late and the product had a small problem.;2;Website;Johannesburg;2026/03/03;-0.275;Negative;TRUE;Negative
+REV0071;CUST1004;Mobile;Phone Holder;Good product overall and it arrived on time. Ordering was simple.;4;Mobile App;Gqeberha;2026/06/24;0.2333333333333333;Positive;FALSE;Positive
+REV0072;CUST1182;Electronics;Power Bank;I am extremely happy with this purchase.;5;Mobile App;Bloemfontein;2026/08/24;0.8;Positive;FALSE;Positive
+REV0073;CUST1120;Computers;Webcam;The product is exactly what I expected and arrived quickly.;5;Mobile App;Durban;2026/09/05;0.1611111111111111;Positive;FALSE;Positive
+REV0074;CUST1063;Mobile;Screen Protector;I love this product and it works perfectly.;5;Mobile App;Bloemfontein;2026/08/19;0.75;Positive;FALSE;Positive
+REV0075;CUST1205;Mobile;Phone Case;Good product overall and it arrived on time. The packaging was good.;4;Website;Cape Town;2026/07/01;0.4666666666666666;Positive;FALSE;Positive
+REV0076;CUST1243;Mobile;Phone Holder;The product is exactly what I expected and arrived quickly.;5;Mobile App;Pretoria;2026/09/22;0.1611111111111111;Positive;FALSE;Positive
+REV0077;CUST1115;Computers;Laptop Stand;I am happy with the quality and delivery.;4;Website;Pretoria;2026/09/09;0.8;Positive;FALSE;Positive
+REV0078;CUST1122;Mobile;Screen Protector;I am happy with the quality and delivery.;4;Website;Cape Town;2026/07/08;0.8;Positive;FALSE;Positive
+REV0079;CUST1060;Home;Bedside Organizer;The quality is acceptable for the price.;3;Website;Polokwane;2026/05/09;0.0;Neutral;FALSE;Neutral
+REV0080;CUST1056;Mobile;Phone Case;The product looks great and works even better than expected.;5;Mobile App;Durban;2026/04/09;0.39999999999999997;Positive;FALSE;Positive
+REV0081;CUST1059;Beauty;Hair Brush;The product is very good and works well.;4;Website;Tzaneen;2026/06/01;0.9099999999999999;Positive;FALSE;Positive
+REV0082;CUST1142;Mobile;Phone Case;Excellent quality and very happy with my purchase.;5;Website;Tzaneen;2026/01/28;1.0;Positive;FALSE;Positive
+REV0083;CUST1113;Home;Desk Lamp;Very good quality and the delivery was fast.;5;Website;Tzaneen;2026/09/03;0.5549999999999999;Positive;FALSE;Positive
+REV0084;CUST1126;Electronics;Smart Watch;Amazing product. I would definitely buy it again. The packaging was also excellent.;5;Website;Johannesburg;2026/07/25;0.5333333333333333;Positive;FALSE;Positive
+REV0085;CUST1143;Computers;Wireless Mouse;The product is exactly what I expected and arrived quickly. The packaging was also excellent.;5;Mobile App;Polokwane;2026/03/02;0.37083333333333335;Positive;FALSE;Positive
+REV0086;CUST1079;Beauty;Body Lotion;The quality is good and I would recommend it.;4;Website;Johannesburg;2026/08/08;0.7;Positive;FALSE;Positive
+REV0087;CUST1170;Beauty;Hair Dryer;Excellent quality and very happy with my purchase.;5;Website;Tzaneen;2026/05/16;1.0;Positive;FALSE;Positive
+REV0088;CUST1075;Computers;Wireless Mouse;I am happy with the quality and delivery. Delivery was reasonable.;4;Website;Polokwane;2026/08/29;0.5;Positive;FALSE;Positive
+REV0089;CUST1202;Mobile;Fast Charger;Amazing product. I would definitely buy it again. The packaging was also excellent.;5;Website;Polokwane;2026/05/16;0.5333333333333333;Positive;FALSE;Positive
+REV0090;CUST1019;Home;Desk Lamp;I am happy with the quality and delivery.;4;Website;Tzaneen;2026/03/14;0.8;Positive;FALSE;Positive
+REV0091;CUST1032;Mobile;Phone Holder;Very good quality and the delivery was fast.;5;Mobile App;Durban;2026/08/13;0.5549999999999999;Positive;FALSE;Positive
+REV0092;CUST1228;Home;Coffee Mug;The quality is good and I would recommend it.;4;Mobile App;Cape Town;2026/01/21;0.7;Positive;FALSE;Positive
+REV0093;CUST1196;Beauty;Makeup Bag;I received a damaged product and customer service was not helpful.;1;Website;Johannesburg;2026/01/11;-0.1;Negative;TRUE;Negative
+REV0094;CUST1150;Computers;Laptop Stand;The quality is good and I would recommend it.;4;Mobile App;Gqeberha;2026/04/03;0.7;Positive;FALSE;Positive
+REV0095;CUST1220;Electronics;Power Bank;Average product. It does the job.;3;Mobile App;Cape Town;2026/02/23;-0.15;Negative;TRUE;Negative
+REV0096;CUST1117;Home;Electric Kettle;The quality is acceptable for the price.;3;Website;Cape Town;2026/01/19;0.0;Neutral;FALSE;Neutral
+REV0097;CUST1169;Mobile;Fast Charger;I expected better quality for the price.;2;Website;Gqeberha;2026/01/01;0.2;Positive;FALSE;Positive
+REV0098;CUST1161;Home;Desk Lamp;Delivery was late and the product had a small problem.;2;Mobile App;Johannesburg;2026/09/13;-0.275;Negative;TRUE;Negative
+REV0099;CUST1032;Computers;Keyboard;Good product overall and it arrived on time.;4;Website;Polokwane;2026/09/06;0.35;Positive;FALSE;Positive
+REV0100;CUST1216;Computers;Keyboard;I like the product. It could be slightly better, but overall it is good.;4;Website;Gqeberha;2026/04/26;0.39999999999999997;Positive;FALSE;Positive
+REV0101;CUST1107;Electronics;Bluetooth Speaker;Good product overall and it arrived on time.;4;Mobile App;Gqeberha;2026/05/20;0.35;Positive;FALSE;Positive
+REV0102;CUST1192;Computers;Laptop Stand;The quality is good and I would recommend it. Ordering was simple.;4;Mobile App;Pretoria;2026/09/18;0.35;Positive;FALSE;Positive
+REV0103;CUST1073;Mobile;Earbuds;I am satisfied, but I expected a little more.;3;Website;Gqeberha;2026/01/02;0.178125;Positive;FALSE;Positive
+REV0104;CUST1117;Computers;Laptop Stand;Good product overall and it arrived on time.;4;Website;Polokwane;2026/07/13;0.35;Positive;FALSE;Positive
+REV0105;CUST1181;Computers;Webcam;The quality is good and I would recommend it. Ordering was simple.;4;Mobile App;Bloemfontein;2026/08/31;0.35;Positive;FALSE;Positive
+REV0106;CUST1223;Computers;Laptop Stand;Excellent quality and very happy with my purchase.;5;Website;Gqeberha;2026/06/19;1.0;Positive;FALSE;Positive
+REV0107;CUST1223;Electronics;USB-C Charger;I love this product and it works perfectly.;5;Mobile App;Pretoria;2026/07/29;0.75;Positive;FALSE;Positive
+REV0108;CUST1219;Home;Coffee Mug;The quality is acceptable for the price.;3;Website;Bloemfontein;2026/06/18;0.0;Neutral;FALSE;Neutral
+REV0109;CUST1162;Mobile;Earbuds;I love this product and it works perfectly.;5;Website;Polokwane;2026/05/01;0.75;Positive;FALSE;Positive
+REV0110;CUST1114;Electronics;Power Bank;The product looks great and works even better than expected.;5;Mobile App;Durban;2026/02/21;0.39999999999999997;Positive;FALSE;Positive
+REV0111;CUST1111;Electronics;Wireless Headphones;The product is okay but nothing special.;3;Mobile App;Polokwane;2026/07/11;0.4285714285714286;Positive;FALSE;Positive
+REV0112;CUST1159;Beauty;Body Lotion;I am happy with the quality and delivery. The packaging was good.;4;Mobile App;Gqeberha;2026/07/15;0.75;Positive;FALSE;Positive
+REV0113;CUST1231;Beauty;Skin Care Set;Average product. It does the job.;3;Mobile App;Durban;2026/01/05;-0.15;Negative;TRUE;Negative
+REV0114;CUST1164;Beauty;Skin Care Set;The product stopped working immediately.;1;Mobile App;Durban;2026/06/03;0.0;Neutral;FALSE;Neutral
+REV0115;CUST1061;Home;Coffee Mug;I expected better quality for the price.;2;Mobile App;Cape Town;2026/02/24;0.2;Positive;FALSE;Positive
+REV0116;CUST1071;Beauty;Makeup Bag;The product is exactly what I expected and arrived quickly. It was easy to order online.;5;Website;Johannesburg;2026/07/22;0.22916666666666666;Positive;FALSE;Positive
+REV0117;CUST1156;Beauty;Body Lotion;The product is exactly what I expected and arrived quickly.;5;Website;Polokwane;2026/04/28;0.1611111111111111;Positive;FALSE;Positive
+REV0118;CUST1080;Computers;Webcam;It works as expected, although there is room for improvement.;3;Mobile App;Johannesburg;2026/01/21;-0.1;Negative;TRUE;Negative
+REV0119;CUST1192;Beauty;Makeup Bag;I love this product and it works perfectly.;5;Mobile App;Tzaneen;2026/06/17;0.75;Positive;FALSE;Positive
+REV0120;CUST1213;Computers;Wireless Mouse;The product is exactly what I expected and arrived quickly.;5;Mobile App;Durban;2026/05/20;0.1611111111111111;Positive;FALSE;Positive
+REV0121;CUST1247;Home;Coffee Mug;The product is exactly what I expected and arrived quickly.;5;Website;Tzaneen;2026/08/28;0.1611111111111111;Positive;FALSE;Positive
+REV0122;CUST1203;Computers;Laptop Stand;The product looks great and works even better than expected.;5;Mobile App;Johannesburg;2026/02/16;0.39999999999999997;Positive;FALSE;Positive
+REV0123;CUST1150;Mobile;Phone Holder;Delivery was late and the product had a small problem.;2;Mobile App;Cape Town;2026/05/15;-0.275;Negative;TRUE;Negative
+REV0124;CUST1235;Electronics;Bluetooth Speaker;I like the product. It could be slightly better, but overall it is good.;4;Website;Polokwane;2026/06/17;0.39999999999999997;Positive;FALSE;Positive
+REV0125;CUST1036;Electronics;Power Bank;The product is exactly what I expected and arrived quickly.;5;Website;Johannesburg;2026/03/01;0.1611111111111111;Positive;FALSE;Positive
+REV0126;CUST1100;Mobile;Earbuds;The quality was disappointing and not as expected.;2;Mobile App;Cape Town;2026/03/11;-0.35;Negative;TRUE;Negative
+REV0127;CUST1214;Beauty;Body Lotion;I am happy with the quality and delivery.;4;Mobile App;Bloemfontein;2026/02/20;0.8;Positive;FALSE;Positive
+REV0128;CUST1219;Mobile;Phone Case;Excellent quality and very happy with my purchase.;5;Website;Pretoria;2026/05/01;1.0;Positive;FALSE;Positive
+REV0129;CUST1071;Mobile;Phone Holder;I am extremely happy with this purchase.;5;Mobile App;Pretoria;2026/07/23;0.8;Positive;FALSE;Positive
+REV0130;CUST1013;Home;Desk Lamp;I am extremely happy with this purchase.;5;Website;Polokwane;2026/01/11;0.8;Positive;FALSE;Positive
+REV0131;CUST1085;Computers;Webcam;I am satisfied, but I expected a little more. The packaging was fine.;3;Mobile App;Johannesburg;2026/04/30;0.22583333333333333;Positive;FALSE;Positive
+REV0132;CUST1029;Mobile;Screen Protector;Very good quality and the delivery was fast.;5;Website;Tzaneen;2026/03/31;0.5549999999999999;Positive;FALSE;Positive
+REV0133;CUST1045;Electronics;Smart Watch;Excellent quality and very happy with my purchase.;5;Website;Johannesburg;2026/01/09;1.0;Positive;FALSE;Positive
+REV0134;CUST1132;Computers;Laptop Stand;The product is very good and works well.;4;Website;Pretoria;2026/07/05;0.9099999999999999;Positive;FALSE;Positive
+REV0135;CUST1078;Home;Bedside Organizer;I am satisfied, but I expected a little more. Ordering was straightforward.;3;Mobile App;Johannesburg;2026/09/24;0.21749999999999997;Positive;FALSE;Positive
+REV0136;CUST1183;Electronics;Power Bank;Amazing product. I would definitely buy it again.;5;Mobile App;Pretoria;2026/09/09;0.30000000000000004;Positive;FALSE;Positive
+REV0137;CUST1098;Electronics;Smart Watch;The product is very good and works well. Ordering was simple.;4;Website;Durban;2026/06/16;0.45499999999999996;Positive;FALSE;Positive
+REV0138;CUST1219;Home;Bedside Organizer;The product is very good and works well.;4;Website;Polokwane;2026/02/28;0.9099999999999999;Positive;FALSE;Positive
+REV0139;CUST1103;Home;Electric Kettle;Amazing product. I would definitely buy it again.;5;Mobile App;Pretoria;2026/08/21;0.30000000000000004;Positive;FALSE;Positive
+REV0140;CUST1176;Mobile;Earbuds;Average product. It does the job.;3;Mobile App;Pretoria;2026/03/20;-0.15;Negative;TRUE;Negative
+REV0141;CUST1208;Electronics;Wireless Headphones;The product stopped working after a short time.;2;Mobile App;Johannesburg;2026/07/10;0.0;Neutral;FALSE;Neutral
+REV0142;CUST1223;Beauty;Hair Brush;The product is very good and works well.;4;Website;Durban;2026/08/05;0.9099999999999999;Positive;FALSE;Positive
+REV0143;CUST1169;Beauty;Makeup Bag;I am satisfied, but I expected a little more.;3;Mobile App;Polokwane;2026/03/21;0.178125;Positive;FALSE;Positive
+REV0144;CUST1207;Electronics;Smart Watch;The product is exactly what I expected and arrived quickly. The delivery driver was friendly.;5;Mobile App;Johannesburg;2026/04/26;0.21458333333333332;Positive;FALSE;Positive
+REV0145;CUST1236;Beauty;Makeup Bag;The product stopped working immediately.;1;Website;Cape Town;2026/06/08;0.0;Neutral;FALSE;Neutral
+REV0146;CUST1037;Electronics;Bluetooth Speaker;Very good quality and the delivery was fast.;5;Website;Pretoria;2026/02/05;0.5549999999999999;Positive;FALSE;Positive
+REV0147;CUST1080;Beauty;Skin Care Set;The quality is acceptable for the price.;3;Website;Pretoria;2026/07/09;0.0;Neutral;FALSE;Neutral
+REV0148;CUST1114;Electronics;Bluetooth Speaker;The product works, but there are several issues with it. The packaging was damaged.;2;Mobile App;Gqeberha;2026/05/20;-0.1;Negative;TRUE;Negative
+REV0149;CUST1089;Beauty;Body Lotion;I am happy with the quality and delivery.;4;Mobile App;Pretoria;2026/02/28;0.8;Positive;FALSE;Positive
+REV0150;CUST1002;Mobile;Phone Holder;Good product overall and it arrived on time. Delivery was reasonable.;4;Mobile App;Durban;2026/01/29;0.3;Positive;FALSE;Positive
+REV0151;CUST1128;Computers;Wireless Mouse;The product is exactly what I expected and arrived quickly.;5;Mobile App;Tzaneen;2026/01/04;0.1611111111111111;Positive;FALSE;Positive
+REV0152;CUST1019;Computers;Laptop Stand;I am happy with the quality and delivery.;4;Mobile App;Johannesburg;2026/07/01;0.8;Positive;FALSE;Positive
+REV0153;CUST1147;Home;Desk Lamp;The product is very good and works well.;4;Mobile App;Bloemfontein;2026/08/08;0.9099999999999999;Positive;FALSE;Positive
+REV0154;CUST1213;Mobile;Phone Case;Good product overall and it arrived on time. Ordering was simple.;4;Website;Pretoria;2026/08/24;0.2333333333333333;Positive;FALSE;Positive
+REV0155;CUST1102;Home;Desk Lamp;I am satisfied, but I expected a little more.;3;Website;Cape Town;2026/02/10;0.178125;Positive;FALSE;Positive
+REV0156;CUST1136;Computers;Keyboard;I love this product and it works perfectly.;5;Website;Polokwane;2026/02/28;0.75;Positive;FALSE;Positive
+REV0157;CUST1061;Mobile;Fast Charger;The product looks great and works even better than expected.;5;Website;Tzaneen;2026/03/17;0.39999999999999997;Positive;FALSE;Positive
+REV0158;CUST1046;Mobile;Screen Protector;The quality was disappointing and not as expected.;2;Mobile App;Gqeberha;2026/02/08;-0.35;Negative;TRUE;Negative
+REV0159;CUST1222;Beauty;Hair Brush;I like the product. It could be slightly better, but overall it is good.;4;Website;Tzaneen;2026/06/15;0.39999999999999997;Positive;FALSE;Positive
+REV0160;CUST1091;Home;Desk Lamp;Good product overall and it arrived on time.;4;Website;Pretoria;2026/01/29;0.35;Positive;FALSE;Positive
+REV0161;CUST1020;Mobile;Earbuds;The product is very good and works well.;4;Website;Bloemfontein;2026/05/27;0.9099999999999999;Positive;FALSE;Positive
+REV0162;CUST1083;Home;Bedside Organizer;The product is very good and works well.;4;Website;Gqeberha;2026/04/07;0.9099999999999999;Positive;FALSE;Positive
+REV0163;CUST1130;Beauty;Skin Care Set;Amazing product. I would definitely buy it again. The delivery driver was friendly.;5;Mobile App;Johannesburg;2026/02/13;0.325;Positive;FALSE;Positive
+REV0164;CUST1094;Computers;Laptop Stand;Very good quality and the delivery was fast.;5;Website;Durban;2026/03/23;0.5549999999999999;Positive;FALSE;Positive
+REV0165;CUST1017;Home;Electric Kettle;I am extremely happy with this purchase.;5;Website;Pretoria;2026/06/21;0.8;Positive;FALSE;Positive
+REV0166;CUST1021;Beauty;Body Lotion;I am satisfied, but I expected a little more.;3;Website;Tzaneen;2026/06/20;0.178125;Positive;FALSE;Positive
+REV0167;CUST1153;Mobile;Fast Charger;I am extremely happy with this purchase.;5;Website;Durban;2026/03/08;0.8;Positive;FALSE;Positive
+REV0168;CUST1024;Beauty;Body Lotion;Good product overall and it arrived on time.;4;Mobile App;Cape Town;2026/09/27;0.35;Positive;FALSE;Positive
+REV0169;CUST1050;Electronics;Smart Watch;It works as expected, although there is room for improvement.;3;Mobile App;Tzaneen;2026/09/06;-0.1;Negative;TRUE;Negative
+REV0170;CUST1010;Computers;Laptop Bag;The product is okay but nothing special.;3;Website;Tzaneen;2026/09/27;0.4285714285714286;Positive;FALSE;Positive
+REV0171;CUST1185;Beauty;Body Lotion;The quality was disappointing and not as expected.;2;Mobile App;Johannesburg;2026/03/26;-0.35;Negative;TRUE;Negative
+REV0172;CUST1193;Home;Coffee Mug;Excellent quality and very happy with my purchase.;5;Mobile App;Polokwane;2026/05/26;1.0;Positive;FALSE;Positive
+REV0173;CUST1095;Beauty;Skin Care Set;The quality is acceptable for the price.;3;Website;Gqeberha;2026/04/10;0.0;Neutral;FALSE;Neutral
+REV0174;CUST1210;Home;Coffee Mug;Very good quality and the delivery was fast.;5;Mobile App;Tzaneen;2026/03/24;0.5549999999999999;Positive;FALSE;Positive
+REV0175;CUST1183;Mobile;Phone Case;Good product overall and it arrived on time.;4;Website;Pretoria;2026/02/22;0.35;Positive;FALSE;Positive
+REV0176;CUST1038;Mobile;Phone Case;The product is exactly what I expected and arrived quickly.;5;Mobile App;Pretoria;2026/09/20;0.1611111111111111;Positive;FALSE;Positive
+REV0177;CUST1129;Computers;Laptop Stand;I love this product and it works perfectly.;5;Website;Polokwane;2026/07/22;0.75;Positive;FALSE;Positive
+REV0178;CUST1215;Home;Desk Lamp;The product is okay but nothing special.;3;Website;Tzaneen;2026/02/20;0.4285714285714286;Positive;FALSE;Positive
+REV0179;CUST1195;Computers;Laptop Bag;The quality is acceptable for the price.;3;Mobile App;Gqeberha;2026/03/13;0.0;Neutral;FALSE;Neutral
+REV0180;CUST1141;Beauty;Hair Dryer;I love this product and it works perfectly.;5;Website;Bloemfontein;2026/03/18;0.75;Positive;FALSE;Positive
+REV0181;CUST1017;Electronics;Smart Watch;The product is okay but nothing special. Delivery was average.;3;Website;Gqeberha;2026/08/23;0.23571428571428574;Positive;FALSE;Positive
+REV0182;CUST1075;Beauty;Hair Brush;The item was completely different from what I expected.;1;Mobile App;Johannesburg;2026/03/15;-0.05;Negative;TRUE;Negative
+REV0183;CUST1135;Beauty;Makeup Bag;The quality is acceptable for the price. Ordering was straightforward.;3;Website;Pretoria;2026/02/13;0.375;Positive;FALSE;Positive
+REV0184;CUST1224;Beauty;Hair Brush;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Johannesburg;2026/07/19;0.39999999999999997;Positive;FALSE;Positive
+REV0185;CUST1089;Home;Coffee Mug;The product is okay but nothing special.;3;Mobile App;Pretoria;2026/02/04;0.4285714285714286;Positive;FALSE;Positive
+REV0186;CUST1213;Beauty;Makeup Bag;Delivery was late and the product had a small problem.;2;Mobile App;Gqeberha;2026/03/31;-0.275;Negative;TRUE;Negative
+REV0187;CUST1203;Computers;Wireless Mouse;Terrible experience. I would not recommend this product. The packaging was poor.;1;Mobile App;Johannesburg;2026/01/23;-0.7;Negative;TRUE;Negative
+REV0188;CUST1193;Mobile;Fast Charger;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Durban;2026/01/19;0.39999999999999997;Positive;FALSE;Positive
+REV0189;CUST1112;Mobile;Phone Case;The product is exactly what I expected and arrived quickly.;5;Mobile App;Gqeberha;2026/07/08;0.1611111111111111;Positive;FALSE;Positive
+REV0190;CUST1237;Home;Coffee Mug;Amazing product. I would definitely buy it again.;5;Website;Durban;2026/07/08;0.30000000000000004;Positive;FALSE;Positive
+REV0191;CUST1140;Electronics;Power Bank;The item was completely different from what I expected.;1;Website;Cape Town;2026/04/03;-0.05;Negative;TRUE;Negative
+REV0192;CUST1043;Electronics;Wireless Headphones;Average product. It does the job.;3;Mobile App;Cape Town;2026/08/07;-0.15;Negative;TRUE;Negative
+REV0193;CUST1071;Home;Desk Lamp;The product is exactly what I expected and arrived quickly.;5;Website;Pretoria;2026/08/11;0.1611111111111111;Positive;FALSE;Positive
+REV0194;CUST1218;Home;Coffee Mug;I am happy with the quality and delivery.;4;Website;Gqeberha;2026/03/15;0.8;Positive;FALSE;Positive
+REV0195;CUST1244;Electronics;Bluetooth Speaker;Very poor quality and a waste of money.;1;Website;Johannesburg;2026/07/16;-0.36;Negative;TRUE;Negative
+REV0196;CUST1147;Beauty;Skin Care Set;The product is exactly what I expected and arrived quickly.;5;Mobile App;Cape Town;2026/02/09;0.1611111111111111;Positive;FALSE;Positive
+REV0197;CUST1189;Home;Coffee Mug;I am happy with the quality and delivery.;4;Mobile App;Gqeberha;2026/01/14;0.8;Positive;FALSE;Positive
+REV0198;CUST1181;Beauty;Body Lotion;I love this product and it works perfectly.;5;Mobile App;Polokwane;2026/05/14;0.75;Positive;FALSE;Positive
+REV0199;CUST1116;Beauty;Makeup Bag;Amazing product. I would definitely buy it again. The packaging was also excellent.;5;Mobile App;Gqeberha;2026/02/07;0.5333333333333333;Positive;FALSE;Positive
+REV0200;CUST1229;Electronics;Smart Watch;I am extremely happy with this purchase. It was easy to order online.;5;Website;Tzaneen;2026/05/29;0.6166666666666667;Positive;FALSE;Positive
+REV0201;CUST1061;Computers;Keyboard;The product is very good and works well.;4;Mobile App;Johannesburg;2026/03/13;0.9099999999999999;Positive;FALSE;Positive
+REV0202;CUST1157;Mobile;Phone Holder;The quality is good and I would recommend it.;4;Website;Pretoria;2026/03/08;0.7;Positive;FALSE;Positive
+REV0203;CUST1197;Mobile;Earbuds;I am extremely happy with this purchase.;5;Mobile App;Pretoria;2026/07/30;0.8;Positive;FALSE;Positive
+REV0204;CUST1089;Computers;Keyboard;The quality is good and I would recommend it.;4;Mobile App;Tzaneen;2026/09/22;0.7;Positive;FALSE;Positive
+REV0205;CUST1040;Computers;Laptop Stand;The product is very good and works well.;4;Website;Tzaneen;2026/09/23;0.9099999999999999;Positive;FALSE;Positive
+REV0206;CUST1230;Computers;Keyboard;Excellent quality and very happy with my purchase.;5;Website;Pretoria;2026/09/23;1.0;Positive;FALSE;Positive
+REV0207;CUST1158;Mobile;Screen Protector;I like the product. It could be slightly better, but overall it is good.;4;Website;Pretoria;2026/06/05;0.39999999999999997;Positive;FALSE;Positive
+REV0208;CUST1216;Beauty;Skin Care Set;I like the product. It could be slightly better, but overall it is good. Ordering was simple.;4;Website;Johannesburg;2026/06/22;0.3;Positive;FALSE;Positive
+REV0209;CUST1167;Electronics;Wireless Headphones;Very poor quality and a waste of money.;1;Mobile App;Bloemfontein;2026/05/16;-0.36;Negative;TRUE;Negative
+REV0210;CUST1124;Beauty;Hair Dryer;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Bloemfontein;2026/06/04;0.39999999999999997;Positive;FALSE;Positive
+REV0211;CUST1119;Mobile;Earbuds;Very disappointing product. It did not work properly. The delivery was extremely late.;1;Mobile App;Cape Town;2026/09/05;-0.36000000000000004;Negative;TRUE;Negative
+REV0212;CUST1250;Beauty;Skin Care Set;Average product. It does the job.;3;Mobile App;Tzaneen;2026/06/26;-0.15;Negative;TRUE;Negative
+REV0213;CUST1116;Mobile;Phone Holder;Good product overall and it arrived on time. The packaging was good.;4;Mobile App;Tzaneen;2026/05/17;0.4666666666666666;Positive;FALSE;Positive
+REV0214;CUST1064;Electronics;Wireless Headphones;The quality is acceptable for the price.;3;Mobile App;Cape Town;2026/08/03;0.0;Neutral;FALSE;Neutral
+REV0215;CUST1120;Beauty;Makeup Bag;The quality was disappointing and not as expected.;2;Mobile App;Durban;2026/09/21;-0.35;Negative;TRUE;Negative
+REV0216;CUST1056;Home;Desk Lamp;I expected better quality for the price.;2;Website;Cape Town;2026/05/04;0.2;Positive;FALSE;Positive
+REV0217;CUST1074;Electronics;Wireless Headphones;I am satisfied, but I expected a little more.;3;Website;Johannesburg;2026/08/29;0.178125;Positive;FALSE;Positive
+REV0218;CUST1094;Electronics;Power Bank;Delivery was late and the product had a small problem.;2;Website;Bloemfontein;2026/07/26;-0.275;Negative;TRUE;Negative
+REV0219;CUST1099;Electronics;USB-C Charger;Good product overall and it arrived on time.;4;Website;Gqeberha;2026/02/07;0.35;Positive;FALSE;Positive
+REV0220;CUST1033;Beauty;Makeup Bag;Very good quality and the delivery was fast.;5;Website;Bloemfontein;2026/03/02;0.5549999999999999;Positive;FALSE;Positive
+REV0221;CUST1155;Mobile;Fast Charger;Good product overall and it arrived on time.;4;Website;Bloemfontein;2026/04/12;0.35;Positive;FALSE;Positive
+REV0222;CUST1133;Beauty;Hair Dryer;I received a damaged product and customer service was not helpful.;1;Mobile App;Tzaneen;2026/08/31;-0.1;Negative;TRUE;Negative
+REV0223;CUST1158;Beauty;Hair Brush;The product works, but there are several issues with it.;2;Website;Cape Town;2026/07/21;0.0;Neutral;FALSE;Neutral
+REV0224;CUST1095;Beauty;Hair Brush;I like the product. It could be slightly better, but overall it is good.;4;Website;Pretoria;2026/01/09;0.39999999999999997;Positive;FALSE;Positive
+REV0225;CUST1248;Home;Bedside Organizer;The product is okay but nothing special.;3;Website;Polokwane;2026/05/16;0.4285714285714286;Positive;FALSE;Positive
+REV0226;CUST1038;Electronics;USB-C Charger;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Johannesburg;2026/07/14;0.39999999999999997;Positive;FALSE;Positive
+REV0227;CUST1106;Beauty;Hair Dryer;I expected better quality for the price.;2;Mobile App;Bloemfontein;2026/03/19;0.2;Positive;FALSE;Positive
+REV0228;CUST1181;Beauty;Hair Brush;The product looks great and works even better than expected.;5;Mobile App;Polokwane;2026/02/01;0.39999999999999997;Positive;FALSE;Positive
+REV0229;CUST1245;Beauty;Makeup Bag;Amazing product. I would definitely buy it again.;5;Mobile App;Gqeberha;2026/06/10;0.30000000000000004;Positive;FALSE;Positive
+REV0230;CUST1246;Beauty;Makeup Bag;Good product overall and it arrived on time.;4;Mobile App;Durban;2026/04/09;0.35;Positive;FALSE;Positive
+REV0231;CUST1177;Beauty;Makeup Bag;Average product. It does the job.;3;Mobile App;Cape Town;2026/04/17;-0.15;Negative;TRUE;Negative
+REV0232;CUST1230;Home;Coffee Mug;Good product overall and it arrived on time.;4;Mobile App;Cape Town;2026/07/14;0.35;Positive;FALSE;Positive
+REV0233;CUST1192;Computers;Keyboard;Very poor quality and a waste of money. The delivery was extremely late.;1;Mobile App;Polokwane;2026/05/12;-0.34;Negative;TRUE;Negative
+REV0234;CUST1028;Computers;Webcam;I am satisfied, but I expected a little more.;3;Website;Polokwane;2026/03/12;0.178125;Positive;FALSE;Positive
+REV0235;CUST1026;Computers;Laptop Bag;Very good quality and the delivery was fast. The packaging was also excellent.;5;Mobile App;Cape Town;2026/01/27;0.7033333333333333;Positive;FALSE;Positive
+REV0236;CUST1105;Home;Desk Lamp;Excellent quality and very happy with my purchase. It was easy to order online.;5;Mobile App;Gqeberha;2026/03/22;0.8111111111111112;Positive;FALSE;Positive
+REV0237;CUST1167;Computers;Keyboard;The product is okay but nothing special.;3;Website;Polokwane;2026/02/15;0.4285714285714286;Positive;FALSE;Positive
+REV0238;CUST1240;Beauty;Hair Dryer;Excellent quality and very happy with my purchase.;5;Website;Bloemfontein;2026/04/01;1.0;Positive;FALSE;Positive
+REV0239;CUST1003;Home;Storage Box;The product looks great and works even better than expected.;5;Website;Pretoria;2026/01/20;0.39999999999999997;Positive;FALSE;Positive
+REV0240;CUST1218;Mobile;Fast Charger;I like the product. It could be slightly better, but overall it is good.;4;Website;Gqeberha;2026/03/10;0.39999999999999997;Positive;FALSE;Positive
+REV0241;CUST1184;Mobile;Screen Protector;The product is exactly what I expected and arrived quickly. The delivery driver was friendly.;5;Mobile App;Johannesburg;2026/05/12;0.21458333333333332;Positive;FALSE;Positive
+REV0242;CUST1212;Mobile;Fast Charger;I am happy with the quality and delivery. Ordering was simple.;4;Mobile App;Cape Town;2026/07/27;0.4;Positive;FALSE;Positive
+REV0243;CUST1083;Electronics;Power Bank;Excellent quality and very happy with my purchase.;5;Mobile App;Johannesburg;2026/09/02;1.0;Positive;FALSE;Positive
+REV0244;CUST1150;Mobile;Earbuds;Average product. It does the job.;3;Website;Johannesburg;2026/06/04;-0.15;Negative;TRUE;Negative
+REV0245;CUST1079;Mobile;Fast Charger;I love this product and it works perfectly.;5;Mobile App;Bloemfontein;2026/08/27;0.75;Positive;FALSE;Positive
+REV0246;CUST1095;Beauty;Makeup Bag;I am extremely happy with this purchase.;5;Website;Polokwane;2026/06/01;0.8;Positive;FALSE;Positive
+REV0247;CUST1107;Computers;Wireless Mouse;The quality is good and I would recommend it.;4;Website;Gqeberha;2026/07/11;0.7;Positive;FALSE;Positive
+REV0248;CUST1135;Beauty;Skin Care Set;I am extremely happy with this purchase.;5;Mobile App;Cape Town;2026/02/11;0.8;Positive;FALSE;Positive
+REV0249;CUST1147;Electronics;USB-C Charger;The product works, but there are several issues with it.;2;Website;Tzaneen;2026/04/14;0.0;Neutral;FALSE;Neutral
+REV0250;CUST1024;Computers;Keyboard;Amazing product. I would definitely buy it again. The packaging was also excellent.;5;Website;Gqeberha;2026/09/08;0.5333333333333333;Positive;FALSE;Positive
+REV0251;CUST1144;Electronics;Power Bank;I expected better quality for the price.;2;Mobile App;Durban;2026/01/30;0.2;Positive;FALSE;Positive
+REV0252;CUST1012;Electronics;Power Bank;The product is okay but nothing special.;3;Mobile App;Cape Town;2026/02/07;0.4285714285714286;Positive;FALSE;Positive
+REV0253;CUST1009;Electronics;USB-C Charger;I love this product and it works perfectly.;5;Website;Bloemfontein;2026/08/30;0.75;Positive;FALSE;Positive
+REV0254;CUST1096;Computers;Wireless Mouse;I am extremely happy with this purchase.;5;Mobile App;Gqeberha;2026/08/04;0.8;Positive;FALSE;Positive
+REV0255;CUST1168;Home;Electric Kettle;I am not happy with the quality.;2;Website;Pretoria;2026/03/10;-0.4;Negative;TRUE;Negative
+REV0256;CUST1214;Computers;Webcam;I am happy with the quality and delivery.;4;Website;Johannesburg;2026/04/25;0.8;Positive;FALSE;Positive
+REV0257;CUST1211;Mobile;Earbuds;Very good quality and the delivery was fast.;5;Mobile App;Polokwane;2026/07/14;0.5549999999999999;Positive;FALSE;Positive
+REV0258;CUST1009;Home;Coffee Mug;The quality was disappointing and not as expected.;2;Mobile App;Johannesburg;2026/02/27;-0.35;Negative;TRUE;Negative
+REV0259;CUST1063;Computers;Wireless Mouse;The item was completely different from what I expected. I had trouble getting help from support.;1;Website;Bloemfontein;2026/01/25;-0.10000000000000002;Negative;TRUE;Negative
+REV0260;CUST1209;Home;Storage Box;The product is very good and works well. Delivery was reasonable.;4;Website;Cape Town;2026/04/30;0.5549999999999999;Positive;FALSE;Positive
+REV0261;CUST1225;Beauty;Hair Brush;The product looks great and works even better than expected.;5;Mobile App;Polokwane;2026/06/04;0.39999999999999997;Positive;FALSE;Positive
+REV0262;CUST1161;Home;Coffee Mug;I am satisfied, but I expected a little more.;3;Mobile App;Gqeberha;2026/03/31;0.178125;Positive;FALSE;Positive
+REV0263;CUST1082;Electronics;Smart Watch;I am extremely happy with this purchase.;5;Mobile App;Bloemfontein;2026/09/26;0.8;Positive;FALSE;Positive
+REV0264;CUST1077;Computers;Keyboard;I am satisfied, but I expected a little more.;3;Mobile App;Gqeberha;2026/04/26;0.178125;Positive;FALSE;Positive
+REV0265;CUST1100;Electronics;USB-C Charger;The quality is good and I would recommend it.;4;Mobile App;Durban;2026/03/10;0.7;Positive;FALSE;Positive
+REV0266;CUST1138;Computers;Keyboard;The quality is good and I would recommend it.;4;Mobile App;Johannesburg;2026/02/17;0.7;Positive;FALSE;Positive
+REV0267;CUST1206;Mobile;Earbuds;Very good quality and the delivery was fast. The packaging was also excellent.;5;Website;Polokwane;2026/04/07;0.7033333333333333;Positive;FALSE;Positive
+REV0268;CUST1055;Home;Storage Box;The product is exactly what I expected and arrived quickly.;5;Mobile App;Pretoria;2026/01/08;0.1611111111111111;Positive;FALSE;Positive
+REV0269;CUST1199;Home;Storage Box;I am extremely happy with this purchase. The packaging was also excellent.;5;Website;Bloemfontein;2026/06/14;0.9;Positive;FALSE;Positive
+REV0270;CUST1226;Home;Bedside Organizer;Good product overall and it arrived on time.;4;Mobile App;Gqeberha;2026/09/20;0.35;Positive;FALSE;Positive
+REV0271;CUST1081;Electronics;Power Bank;The product is exactly what I expected and arrived quickly.;5;Mobile App;Johannesburg;2026/07/09;0.1611111111111111;Positive;FALSE;Positive
+REV0272;CUST1076;Beauty;Skin Care Set;I love this product and it works perfectly.;5;Mobile App;Polokwane;2026/08/02;0.75;Positive;FALSE;Positive
+REV0273;CUST1066;Mobile;Screen Protector;It works as expected, although there is room for improvement.;3;Mobile App;Gqeberha;2026/06/22;-0.1;Negative;TRUE;Negative
+REV0274;CUST1048;Home;Storage Box;The product is exactly what I expected and arrived quickly. It was easy to order online.;5;Website;Johannesburg;2026/09/08;0.22916666666666666;Positive;FALSE;Positive
+REV0275;CUST1196;Beauty;Hair Dryer;I love this product and it works perfectly.;5;Website;Bloemfontein;2026/01/25;0.75;Positive;FALSE;Positive
+REV0276;CUST1096;Computers;Wireless Mouse;I received a damaged product and customer service was not helpful. I had trouble getting help from support.;1;Website;Gqeberha;2026/08/22;-0.2;Negative;TRUE;Negative
+REV0277;CUST1136;Home;Desk Lamp;The item was completely different from what I expected.;1;Website;Durban;2026/01/09;-0.05;Negative;TRUE;Negative
+REV0278;CUST1028;Electronics;USB-C Charger;I am extremely happy with this purchase.;5;Website;Tzaneen;2026/04/02;0.8;Positive;FALSE;Positive
+REV0279;CUST1204;Computers;Wireless Mouse;Good product overall and it arrived on time.;4;Mobile App;Pretoria;2026/05/17;0.35;Positive;FALSE;Positive
+REV0280;CUST1077;Mobile;Earbuds;I am happy with the quality and delivery.;4;Website;Johannesburg;2026/04/26;0.8;Positive;FALSE;Positive
+REV0281;CUST1180;Electronics;Power Bank;I am satisfied, but I expected a little more.;3;Mobile App;Pretoria;2026/01/05;0.178125;Positive;FALSE;Positive
+REV0282;CUST1230;Home;Electric Kettle;Good product overall and it arrived on time.;4;Website;Johannesburg;2026/02/18;0.35;Positive;FALSE;Positive
+REV0283;CUST1070;Computers;Wireless Mouse;I am extremely happy with this purchase.;5;Website;Pretoria;2026/09/01;0.8;Positive;FALSE;Positive
+REV0284;CUST1247;Mobile;Phone Holder;The product is very good and works well. Delivery was reasonable.;4;Mobile App;Tzaneen;2026/01/09;0.5549999999999999;Positive;FALSE;Positive
+REV0285;CUST1099;Home;Desk Lamp;I am satisfied, but I expected a little more. Delivery was average.;3;Mobile App;Pretoria;2026/06/19;0.1125;Positive;FALSE;Positive
+REV0286;CUST1155;Beauty;Makeup Bag;Terrible experience. I would not recommend this product. The packaging was poor.;1;Website;Bloemfontein;2026/06/24;-0.7;Negative;TRUE;Negative
+REV0287;CUST1142;Mobile;Phone Case;The quality is good and I would recommend it.;4;Mobile App;Bloemfontein;2026/07/02;0.7;Positive;FALSE;Positive
+REV0288;CUST1205;Computers;Webcam;I love this product and it works perfectly.;5;Mobile App;Pretoria;2026/06/01;0.75;Positive;FALSE;Positive
+REV0289;CUST1190;Electronics;Smart Watch;I am not happy with the quality.;2;Mobile App;Cape Town;2026/03/20;-0.4;Negative;TRUE;Negative
+REV0290;CUST1027;Mobile;Phone Case;Delivery was late and the product had a small problem.;2;Mobile App;Pretoria;2026/05/19;-0.275;Negative;TRUE;Negative
+REV0291;CUST1007;Computers;Laptop Stand;I like the product. It could be slightly better, but overall it is good.;4;Website;Cape Town;2026/02/22;0.39999999999999997;Positive;FALSE;Positive
+REV0292;CUST1075;Beauty;Hair Dryer;Good product overall and it arrived on time.;4;Mobile App;Bloemfontein;2026/01/07;0.35;Positive;FALSE;Positive
+REV0293;CUST1176;Electronics;USB-C Charger;Excellent quality and very happy with my purchase.;5;Mobile App;Tzaneen;2026/03/28;1.0;Positive;FALSE;Positive
+REV0294;CUST1071;Computers;Keyboard;The quality is acceptable for the price. The packaging was fine.;3;Mobile App;Durban;2026/08/11;0.4166666666666667;Positive;FALSE;Positive
+REV0295;CUST1153;Home;Desk Lamp;It works as expected, although there is room for improvement.;3;Website;Polokwane;2026/09/11;-0.1;Negative;TRUE;Negative
+REV0296;CUST1216;Home;Desk Lamp;The product stopped working after a short time.;2;Website;Bloemfontein;2026/06/20;0.0;Neutral;FALSE;Neutral
+REV0297;CUST1123;Mobile;Earbuds;I am satisfied, but I expected a little more. Delivery was average.;3;Website;Tzaneen;2026/04/13;0.1125;Positive;FALSE;Positive
+REV0298;CUST1084;Home;Coffee Mug;The quality is acceptable for the price.;3;Mobile App;Durban;2026/05/05;0.0;Neutral;FALSE;Neutral
+REV0299;CUST1175;Home;Coffee Mug;The product works, but there are several issues with it. The website order was confusing.;2;Website;Johannesburg;2026/04/03;-0.15;Negative;TRUE;Negative
+REV0300;CUST1210;Home;Storage Box;Good product overall and it arrived on time.;4;Mobile App;Gqeberha;2026/02/05;0.35;Positive;FALSE;Positive
+REV0301;CUST1019;Computers;Keyboard;It works as expected, although there is room for improvement.;3;Mobile App;Gqeberha;2026/07/13;-0.1;Negative;TRUE;Negative
+REV0302;CUST1180;Beauty;Body Lotion;The quality is good and I would recommend it.;4;Website;Pretoria;2026/07/04;0.7;Positive;FALSE;Positive
+REV0303;CUST1145;Electronics;Bluetooth Speaker;The product is exactly what I expected and arrived quickly. It was easy to order online.;5;Mobile App;Cape Town;2026/01/23;0.22916666666666666;Positive;FALSE;Positive
+REV0304;CUST1143;Home;Desk Lamp;The product stopped working immediately. I had trouble getting help from support.;1;Website;Polokwane;2026/09/23;-0.2;Negative;TRUE;Negative
+REV0305;CUST1089;Home;Coffee Mug;I like the product. It could be slightly better, but overall it is good.;4;Website;Gqeberha;2026/03/19;0.39999999999999997;Positive;FALSE;Positive
+REV0306;CUST1090;Electronics;Smart Watch;The product is very good and works well. Ordering was simple.;4;Website;Cape Town;2026/03/14;0.45499999999999996;Positive;FALSE;Positive
+REV0307;CUST1185;Home;Storage Box;Good product overall and it arrived on time.;4;Mobile App;Cape Town;2026/08/13;0.35;Positive;FALSE;Positive
+REV0308;CUST1174;Electronics;Smart Watch;Very poor quality and a waste of money. The delivery was extremely late.;1;Mobile App;Polokwane;2026/02/25;-0.34;Negative;TRUE;Negative
+REV0309;CUST1060;Beauty;Skin Care Set;Good product overall and it arrived on time.;4;Mobile App;Tzaneen;2026/08/25;0.35;Positive;FALSE;Positive
+REV0310;CUST1152;Computers;Laptop Stand;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Bloemfontein;2026/08/19;0.39999999999999997;Positive;FALSE;Positive
+REV0311;CUST1094;Electronics;Bluetooth Speaker;The product is okay but nothing special.;3;Website;Polokwane;2026/04/06;0.4285714285714286;Positive;FALSE;Positive
+REV0312;CUST1153;Home;Desk Lamp;The quality is acceptable for the price.;3;Mobile App;Bloemfontein;2026/06/10;0.0;Neutral;FALSE;Neutral
+REV0313;CUST1236;Beauty;Hair Dryer;The quality is acceptable for the price.;3;Website;Pretoria;2026/06/02;0.0;Neutral;FALSE;Neutral
+REV0314;CUST1131;Computers;Keyboard;Delivery was late and the product had a small problem. Delivery took longer than expected.;2;Mobile App;Bloemfontein;2026/03/14;-0.21666666666666667;Negative;TRUE;Negative
+REV0315;CUST1143;Beauty;Skin Care Set;The quality is good and I would recommend it. Ordering was simple.;4;Mobile App;Gqeberha;2026/03/30;0.35;Positive;FALSE;Positive
+REV0316;CUST1244;Mobile;Screen Protector;I expected better quality for the price.;2;Website;Gqeberha;2026/07/03;0.2;Positive;FALSE;Positive
+REV0317;CUST1105;Computers;Wireless Mouse;Very good quality and the delivery was fast.;5;Mobile App;Bloemfontein;2026/09/11;0.5549999999999999;Positive;FALSE;Positive
+REV0318;CUST1009;Home;Electric Kettle;The product works, but there are several issues with it. The packaging was damaged.;2;Website;Polokwane;2026/05/30;-0.1;Negative;TRUE;Negative
+REV0319;CUST1141;Beauty;Makeup Bag;I expected better quality for the price.;2;Website;Pretoria;2026/09/11;0.2;Positive;FALSE;Positive
+REV0320;CUST1139;Beauty;Hair Dryer;I am satisfied, but I expected a little more.;3;Website;Gqeberha;2026/07/07;0.178125;Positive;FALSE;Positive
+REV0321;CUST1077;Beauty;Skin Care Set;I love this product and it works perfectly.;5;Website;Gqeberha;2026/05/07;0.75;Positive;FALSE;Positive
+REV0322;CUST1199;Mobile;Fast Charger;I love this product and it works perfectly.;5;Mobile App;Polokwane;2026/03/02;0.75;Positive;FALSE;Positive
+REV0323;CUST1158;Beauty;Makeup Bag;Very good quality and the delivery was fast.;5;Mobile App;Polokwane;2026/03/26;0.5549999999999999;Positive;FALSE;Positive
+REV0324;CUST1083;Computers;Laptop Bag;I like the product. It could be slightly better, but overall it is good.;4;Website;Durban;2026/03/28;0.39999999999999997;Positive;FALSE;Positive
+REV0325;CUST1035;Beauty;Makeup Bag;Very good quality and the delivery was fast.;5;Mobile App;Johannesburg;2026/02/18;0.5549999999999999;Positive;FALSE;Positive
+REV0326;CUST1213;Mobile;Screen Protector;Excellent quality and very happy with my purchase. It was easy to order online.;5;Mobile App;Bloemfontein;2026/06/14;0.8111111111111112;Positive;FALSE;Positive
+REV0327;CUST1116;Home;Storage Box;Good product overall and it arrived on time.;4;Website;Pretoria;2026/07/12;0.35;Positive;FALSE;Positive
+REV0328;CUST1117;Home;Bedside Organizer;I am extremely happy with this purchase.;5;Mobile App;Cape Town;2026/07/08;0.8;Positive;FALSE;Positive
+REV0329;CUST1163;Beauty;Hair Dryer;The product looks great and works even better than expected.;5;Website;Pretoria;2026/08/23;0.39999999999999997;Positive;FALSE;Positive
+REV0330;CUST1069;Beauty;Body Lotion;The quality is acceptable for the price.;3;Website;Durban;2026/09/11;0.0;Neutral;FALSE;Neutral
+REV0331;CUST1229;Mobile;Phone Holder;I like the product. It could be slightly better, but overall it is good.;4;Website;Johannesburg;2026/06/25;0.39999999999999997;Positive;FALSE;Positive
+REV0332;CUST1246;Electronics;Power Bank;I received a damaged product and customer service was not helpful.;1;Mobile App;Polokwane;2026/01/01;-0.1;Negative;TRUE;Negative
+REV0333;CUST1022;Computers;Keyboard;Delivery was late and the product had a small problem. Delivery took longer than expected.;2;Website;Tzaneen;2026/05/09;-0.21666666666666667;Negative;TRUE;Negative
+REV0334;CUST1181;Electronics;Power Bank;I am happy with the quality and delivery.;4;Website;Johannesburg;2026/02/16;0.8;Positive;FALSE;Positive
+REV0335;CUST1003;Computers;Laptop Stand;The item was completely different from what I expected. I had trouble getting help from support.;1;Website;Cape Town;2026/08/16;-0.10000000000000002;Negative;TRUE;Negative
+REV0336;CUST1188;Electronics;Power Bank;Amazing product. I would definitely buy it again. The delivery driver was friendly.;5;Website;Pretoria;2026/02/15;0.325;Positive;FALSE;Positive
+REV0337;CUST1165;Mobile;Fast Charger;Excellent quality and very happy with my purchase.;5;Mobile App;Pretoria;2026/03/10;1.0;Positive;FALSE;Positive
+REV0338;CUST1161;Beauty;Hair Brush;Very poor quality and a waste of money. The delivery was extremely late.;1;Mobile App;Bloemfontein;2026/04/20;-0.34;Negative;TRUE;Negative
+REV0339;CUST1193;Beauty;Body Lotion;I love this product and it works perfectly.;5;Website;Bloemfontein;2026/03/13;0.75;Positive;FALSE;Positive
+REV0340;CUST1064;Mobile;Earbuds;It works as expected, although there is room for improvement. Ordering was straightforward.;3;Website;Durban;2026/02/13;0.1375;Positive;FALSE;Positive
+REV0341;CUST1076;Electronics;Smart Watch;I am satisfied, but I expected a little more.;3;Website;Polokwane;2026/07/20;0.178125;Positive;FALSE;Positive
+REV0342;CUST1136;Home;Electric Kettle;I expected better quality for the price.;2;Website;Cape Town;2026/02/06;0.2;Positive;FALSE;Positive
+REV0343;CUST1196;Mobile;Screen Protector;I like the product. It could be slightly better, but overall it is good.;4;Mobile App;Pretoria;2026/03/30;0.39999999999999997;Positive;FALSE;Positive
+REV0344;CUST1130;Electronics;USB-C Charger;The product stopped working immediately. The packaging was poor.;1;Website;Bloemfontein;2026/07/23;-0.4;Negative;TRUE;Negative
+REV0345;CUST1072;Home;Electric Kettle;The product works, but there are several issues with it.;2;Website;Durban;2026/03/20;0.0;Neutral;FALSE;Neutral
+REV0346;CUST1151;Electronics;USB-C Charger;The product looks great and works even better than expected. The delivery driver was friendly.;5;Website;Durban;2026/07/20;0.39375;Positive;FALSE;Positive
+REV0347;CUST1117;Home;Storage Box;Very disappointing product. It did not work properly.;1;Website;Johannesburg;2026/03/01;-0.39;Negative;TRUE;Negative
+REV0348;CUST1128;Mobile;Screen Protector;I am not happy with the quality. The packaging was damaged.;2;Website;Durban;2026/03/25;-0.4;Negative;TRUE;Negative
+REV0349;CUST1198;Computers;Keyboard;Delivery was late and the product had a small problem.;2;Website;Cape Town;2026/03/02;-0.275;Negative;TRUE;Negative
+REV0350;CUST1128;Home;Coffee Mug;Good product overall and it arrived on time.;4;Mobile App;Cape Town;2026/02/09;0.35;Positive;FALSE;Positive
+REV0351;CUST1198;Electronics;Power Bank;Excellent quality and very happy with my purchase.;5;Website;Pretoria;2026/05/11;1.0;Positive;FALSE;Positive
+REV0352;CUST1099;Computers;Webcam;Very disappointing product. It did not work properly. The delivery was extremely late.;1;Mobile App;Tzaneen;2026/07/06;-0.36000000000000004;Negative;TRUE;Negative
+REV0353;CUST1058;Electronics;USB-C Charger;I am extremely happy with this purchase.;5;Website;Polokwane;2026/08/03;0.8;Positive;FALSE;Positive
+REV0354;CUST1129;Home;Coffee Mug;The product is okay but nothing special.;3;Website;Tzaneen;2026/03/03;0.4285714285714286;Positive;FALSE;Positive
+REV0355;CUST1199;Computers;Webcam;Amazing product. I would definitely buy it again. The delivery driver was friendly.;5;Website;Cape Town;2026/05/25;0.325;Positive;FALSE;Positive
+REV0356;CUST1190;Electronics;USB-C Charger;Good product overall and it arrived on time. Ordering was simple.;4;Website;Polokwane;2026/06/05;0.2333333333333333;Positive;FALSE;Positive
+REV0357;CUST1188;Home;Coffee Mug;The quality is good and I would recommend it.;4;Website;Polokwane;2026/04/11;0.7;Positive;FALSE;Positive
+REV0358;CUST1244;Computers;Laptop Bag;I love this product and it works perfectly. The delivery driver was friendly.;5;Website;Johannesburg;2026/01/05;0.625;Positive;FALSE;Positive
+REV0359;CUST1126;Home;Coffee Mug;The product works, but there are several issues with it.;2;Website;Tzaneen;2026/08/03;0.0;Neutral;FALSE;Neutral
+REV0360;CUST1106;Mobile;Phone Case;I received a damaged product and customer service was not helpful.;1;Website;Gqeberha;2026/09/24;-0.1;Negative;TRUE;Negative
+REV0361;CUST1020;Electronics;USB-C Charger;The quality was disappointing and not as expected.;2;Website;Johannesburg;2026/07/21;-0.35;Negative;TRUE;Negative
+REV0362;CUST1180;Home;Storage Box;Average product. It does the job.;3;Website;Cape Town;2026/07/21;-0.15;Negative;TRUE;Negative
+REV0363;CUST1040;Home;Coffee Mug;It works as expected, although there is room for improvement. Ordering was straightforward.;3;Website;Tzaneen;2026/02/25;0.1375;Positive;FALSE;Positive
+REV0364;CUST1116;Home;Electric Kettle;The product is okay but nothing special.;3;Website;Gqeberha;2026/04/17;0.4285714285714286;Positive;FALSE;Positive
+REV0365;CUST1056;Mobile;Phone Case;I am not happy with the quality.;2;Website;Tzaneen;2026/01/21;-0.4;Negative;TRUE;Negative
+REV0366;CUST1067;Electronics;Bluetooth Speaker;Amazing product. I would definitely buy it again.;5;Mobile App;Johannesburg;2026/06/03;0.30000000000000004;Positive;FALSE;Positive
+REV0367;CUST1206;Home;Electric Kettle;I like the product. It could be slightly better, but overall it is good. Delivery was reasonable.;4;Mobile App;Pretoria;2026/02/22;0.35;Positive;FALSE;Positive
+REV0368;CUST1176;Electronics;Wireless Headphones;Excellent quality and very happy with my purchase. The delivery driver was friendly.;5;Website;Durban;2026/07/10;0.7916666666666666;Positive;FALSE;Positive
+REV0369;CUST1208;Electronics;Wireless Headphones;Excellent quality and very happy with my purchase.;5;Mobile App;Pretoria;2026/08/16;1.0;Positive;FALSE;Positive
+REV0370;CUST1211;Mobile;Phone Case;Terrible experience. I would not recommend this product. I had trouble getting help from support.;1;Mobile App;Gqeberha;2026/08/10;-0.6;Negative;TRUE;Negative
+REV0371;CUST1071;Electronics;Power Bank;Excellent quality and very happy with my purchase.;5;Website;Gqeberha;2026/04/06;1.0;Positive;FALSE;Positive
+REV0372;CUST1106;Computers;Laptop Bag;I like the product. It could be slightly better, but overall it is good. Delivery was reasonable.;4;Website;Gqeberha;2026/09/13;0.35;Positive;FALSE;Positive
+REV0373;CUST1064;Electronics;Wireless Headphones;It works as expected, although there is room for improvement.;3;Website;Johannesburg;2026/09/27;-0.1;Negative;TRUE;Negative
+REV0374;CUST1083;Home;Coffee Mug;The quality is good and I would recommend it.;4;Mobile App;Durban;2026/09/15;0.7;Positive;FALSE;Positive
+REV0375;CUST1208;Computers;Laptop Bag;It works as expected, although there is room for improvement. Delivery was average.;3;Mobile App;Cape Town;2026/01/30;-0.125;Negative;TRUE;Negative
+REV0376;CUST1137;Beauty;Skin Care Set;I love this product and it works perfectly. The packaging was also excellent.;5;Website;Polokwane;2026/05/17;0.8333333333333334;Positive;FALSE;Positive
+REV0377;CUST1207;Beauty;Body Lotion;It works as expected, although there is room for improvement. Ordering was straightforward.;3;Website;Johannesburg;2026/06/12;0.1375;Positive;FALSE;Positive
+REV0378;CUST1139;Mobile;Phone Holder;I like the product. It could be slightly better, but overall it is good.;4;Website;Tzaneen;2026/09/10;0.39999999999999997;Positive;FALSE;Positive
+REV0379;CUST1135;Home;Desk Lamp;The quality was disappointing and not as expected.;2;Mobile App;Johannesburg;2026/01/11;-0.35;Negative;TRUE;Negative
+REV0380;CUST1236;Mobile;Phone Holder;It works as expected, although there is room for improvement.;3;Website;Johannesburg;2026/04/01;-0.1;Negative;TRUE;Negative
+REV0381;CUST1221;Electronics;Bluetooth Speaker;I am happy with the quality and delivery.;4;Website;Pretoria;2026/09/27;0.8;Positive;FALSE;Positive
+REV0382;CUST1250;Mobile;Earbuds;Good product overall and it arrived on time.;4;Mobile App;Bloemfontein;2026/03/11;0.35;Positive;FALSE;Positive
+REV0383;CUST1058;Home;Coffee Mug;The product works, but there are several issues with it.;2;Website;Tzaneen;2026/07/02;0.0;Neutral;FALSE;Neutral
+REV0384;CUST1243;Home;Coffee Mug;The product is exactly what I expected and arrived quickly. It was easy to order online.;5;Website;Bloemfontein;2026/01/01;0.22916666666666666;Positive;FALSE;Positive
+REV0385;CUST1164;Beauty;Hair Dryer;Delivery was late and the product had a small problem.;2;Website;Pretoria;2026/04/24;-0.275;Negative;TRUE;Negative
+REV0386;CUST1163;Home;Storage Box;The product is okay but nothing special. Delivery was average.;3;Website;Cape Town;2026/03/27;0.23571428571428574;Positive;FALSE;Positive
+REV0387;CUST1066;Home;Desk Lamp;It works as expected, although there is room for improvement.;3;Website;Johannesburg;2026/06/29;-0.1;Negative;TRUE;Negative
+REV0388;CUST1127;Electronics;Power Bank;The quality is good and I would recommend it.;4;Mobile App;Cape Town;2026/07/31;0.7;Positive;FALSE;Positive
+REV0389;CUST1042;Beauty;Body Lotion;I expected better quality for the price.;2;Mobile App;Pretoria;2026/04/26;0.2;Positive;FALSE;Positive
+REV0390;CUST1088;Electronics;Smart Watch;The product stopped working immediately.;1;Mobile App;Bloemfontein;2026/02/07;0.0;Neutral;FALSE;Neutral
+REV0391;CUST1181;Computers;Laptop Bag;The product is very good and works well.;4;Website;Bloemfontein;2026/09/05;0.9099999999999999;Positive;FALSE;Positive
+REV0392;CUST1250;Computers;Webcam;Excellent quality and very happy with my purchase. The delivery driver was friendly.;5;Mobile App;Bloemfontein;2026/04/16;0.7916666666666666;Positive;FALSE;Positive
+REV0393;CUST1013;Beauty;Hair Brush;Average product. It does the job.;3;Mobile App;Gqeberha;2026/02/19;-0.15;Negative;TRUE;Negative
+REV0394;CUST1052;Computers;Laptop Bag;The quality is acceptable for the price. Ordering was straightforward.;3;Website;Johannesburg;2026/09/03;0.375;Positive;FALSE;Positive
+REV0395;CUST1079;Computers;Wireless Mouse;The product is very good and works well.;4;Mobile App;Gqeberha;2026/03/01;0.9099999999999999;Positive;FALSE;Positive
+REV0396;CUST1227;Home;Coffee Mug;The product works, but there are several issues with it.;2;Mobile App;Cape Town;2026/07/09;0.0;Neutral;FALSE;Neutral
+REV0397;CUST1215;Computers;Laptop Stand;Terrible experience. I would not recommend this product.;1;Website;Johannesburg;2026/04/26;-1.0;Negative;TRUE;Negative
+REV0398;CUST1249;Computers;Laptop Bag;Delivery was late and the product had a small problem.;2;Website;Polokwane;2026/07/31;-0.275;Negative;TRUE;Negative
+REV0399;CUST1147;Beauty;Hair Dryer;The product looks great and works even better than expected.;5;Mobile App;Gqeberha;2026/09/01;0.39999999999999997;Positive;FALSE;Positive
+REV0400;CUST1205;Mobile;Phone Case;The product is very good and works well.;4;Website;Tzaneen;2026/09/22;0.9099999999999999;Positive;FALSE;Positive
