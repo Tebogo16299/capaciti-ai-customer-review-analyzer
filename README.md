@@ -1,9 +1,14 @@
-I Customer Review Analyzer
+Customer Review Analyzer
+
 CAPACITI Week 4 Individual AI Project
+
 Project type: E-commerce customer-experience analytics prototype
+
 Live demo
 https://capaciti-ai-customer-review-analyzer-dwykm7tru8bvmhgcyvbohw.streamlit.app/
+
 Project overview
+
 The AI Customer Review Analyzer helps users review customer feedback more efficiently. It analyses a single customer review or a CSV dataset, assigns a sentiment label, highlights negative reviews for possible follow-up, and exports analysed results for further exploration in Power BI.
 
 The goal is to turn unstructured customer feedback into a clearer view of customer sentiment and potential service or product issues.
