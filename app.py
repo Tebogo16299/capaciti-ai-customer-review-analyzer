@@ -250,6 +250,7 @@ page = st.sidebar.radio(
         "💬 Customer Voice",
         "🚨 Issue Monitor",
         "💡 Business Action Plan",
+        "🧪 AI Evaluation",
         "🔍 Analyse a Review",
         "📁 Analyse a CSV Dataset"
     ]
@@ -952,6 +953,182 @@ elif page == "💡 Business Action Plan":
             )
 
 
+# =====================================================
+# 12. AI EVALUATION
+# =====================================================
+
+elif page == "🧪 AI Evaluation":
+
+    st.header("🧪 AI Sentiment Evaluation")
+
+    st.write(
+        "Compare the sentiment analyser's predictions with "
+        "human-labelled customer reviews to evaluate its performance."
+    )
+
+    if project_data is None:
+        st.error("The project dataset could not be loaded.")
+        st.code(dataset_error or "Unknown loading error")
+
+    else:
+        evaluation_data = project_data[
+            project_data["Customer_Review"].notna()
+            & project_data["Sentiment_Predicted"].isin(
+                ["Positive", "Negative", "Neutral"]
+            )
+        ].copy()
+
+        if evaluation_data.empty:
+            st.warning("There are no reviews available for evaluation.")
+
+        else:
+            st.info(
+                "Read each comment and choose the sentiment you believe "
+                "best represents it. Do not simply copy the model prediction."
+            )
+
+            sample_size = st.slider(
+                "Number of reviews to evaluate",
+                min_value=5,
+                max_value=min(50, len(evaluation_data)),
+                value=min(10, len(evaluation_data)),
+                step=5
+            )
+
+            if st.button("Load Evaluation Sample", type="primary"):
+                st.session_state.evaluation_sample = (
+                    evaluation_data.sample(
+                        n=sample_size,
+                        random_state=42
+                    ).reset_index(drop=True)
+                )
+                st.session_state.human_labels = {}
+
+            sample = st.session_state.get("evaluation_sample")
+
+            if sample is not None:
+
+                labels = ["Positive", "Neutral", "Negative"]
+
+                for i, row in sample.iterrows():
+
+                    with st.container(border=True):
+                        st.markdown(f"**Review {i + 1}**")
+                        st.write(row["Customer_Review"])
+
+                        st.write(
+                            f"Model prediction: "
+                            f"**{row['Sentiment_Predicted']}**"
+                        )
+
+                        saved_label = st.session_state.human_labels.get(
+                            i, "Neutral"
+                        )
+
+                        human_label = st.selectbox(
+                            "Your human label",
+                            labels,
+                            index=labels.index(saved_label),
+                            key=f"evaluation_label_{i}"
+                        )
+
+                        st.session_state.human_labels[i] = human_label
+
+                if st.button("Calculate Evaluation Results"):
+
+                    results = sample.copy()
+
+                    results["Human_Label"] = [
+                        st.session_state.human_labels[i]
+                        for i in range(len(sample))
+                    ]
+
+                    results["Correct_Prediction"] = (
+                        results["Sentiment_Predicted"]
+                        == results["Human_Label"]
+                    )
+
+                    accuracy = (
+                        results["Correct_Prediction"].mean() * 100
+                    )
+
+                    st.divider()
+                    st.subheader("Evaluation Results")
+
+                    c1, c2, c3 = st.columns(3)
+
+                    c1.metric("Reviews Checked", len(results))
+
+                    c2.metric(
+                        "Correct Predictions",
+                        int(results["Correct_Prediction"].sum())
+                    )
+
+                    c3.metric(
+                        "Sample Accuracy",
+                        f"{accuracy:.1f}%"
+                    )
+
+                    st.write(
+                        "Sample accuracy is the percentage of reviewed "
+                        "examples where the model prediction matched "
+                        "your human label."
+                    )
+
+                    st.subheader("Confusion Matrix")
+
+                    confusion = pd.crosstab(
+                        results["Human_Label"],
+                        results["Sentiment_Predicted"],
+                        rownames=["Human Label"],
+                        colnames=["Model Prediction"]
+                    ).reindex(
+                        index=labels,
+                        columns=labels,
+                        fill_value=0
+                    )
+
+                    st.dataframe(
+                        confusion,
+                        use_container_width=True
+                    )
+
+                    st.subheader("Incorrect Predictions")
+
+                    incorrect = results[
+                        ~results["Correct_Prediction"]
+                    ]
+
+                    if incorrect.empty:
+                        st.success(
+                            "All reviewed predictions matched your labels."
+                        )
+                    else:
+                        st.dataframe(
+                            incorrect[
+                                [
+                                    "Customer_Review",
+                                    "Human_Label",
+                                    "Sentiment_Predicted"
+                                ]
+                            ],
+                            use_container_width=True,
+                            hide_index=True
+                        )
+
+                    st.download_button(
+                        "Download Evaluation Results",
+                        data=results.to_csv(index=False).encode("utf-8"),
+                        file_name="sentiment_evaluation_results.csv",
+                        mime="text/csv"
+                    )
+
+                    st.warning(
+                        "This is a manually labelled sample. Its accuracy "
+                        "does not guarantee performance on every review. "
+                        "Results depend on the sample and the consistency "
+                        "of human labels."
+                    )
 # =====================================================
 # 12. INDIVIDUAL REVIEW ANALYSIS
 # =====================================================
