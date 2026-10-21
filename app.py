@@ -14,6 +14,87 @@ st.set_page_config(
     layout="wide"
 )
 
+# ----------------------------------------
+# COLOURFUL PROFESSIONAL DESIGN
+# ----------------------------------------
+
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+
+.stApp {
+    background: linear-gradient(
+        135deg, #f7f4ff 0%, #f0f6ff 55%, #edfffb 100%
+    );
+    font-family: 'DM Sans', sans-serif;
+}
+
+[data-testid="stSidebar"] {
+    background: linear-gradient(
+        180deg, #25145f 0%, #5031b5 55%, #167c96 100%
+    );
+}
+
+[data-testid="stSidebar"] * {
+    color: white;
+}
+
+h1 {
+    color: #352078 !important;
+    font-weight: 800 !important;
+}
+
+h2, h3 {
+    color: #44318b !important;
+    font-weight: 700 !important;
+}
+
+[data-testid="stMetric"] {
+    background: linear-gradient(135deg, #ffffff, #f0edff);
+    border: 1px solid #e4ddff;
+    padding: 20px;
+    border-radius: 18px;
+    box-shadow: 0 6px 20px rgba(72, 53, 150, 0.09);
+}
+
+[data-testid="stMetricValue"] {
+    color: #5938c5;
+    font-weight: 800;
+}
+
+div.stButton > button[kind="primary"] {
+    background: linear-gradient(90deg, #713de2, #2878ed);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    padding: 0.65rem 1.2rem;
+    font-weight: 700;
+    box-shadow: 0 5px 15px rgba(85, 66, 200, 0.2);
+}
+
+div.stButton > button[kind="primary"]:hover {
+    background: linear-gradient(90deg, #5728c5, #145fce);
+    color: white;
+    border: none;
+}
+
+[data-testid="stTextArea"] textarea,
+[data-testid="stFileUploader"] {
+    background-color: white;
+    border-radius: 12px;
+}
+
+[data-testid="stAlert"] {
+    border-radius: 12px;
+}
+
+hr {
+    border-color: #ddd6fe;
+}
+
+</style>
+""", unsafe_allow_html=True)
+
 st.title("AI Customer Review Analyzer")
 st.write(
     "Analyse customer feedback using Natural Language Processing (NLP). "
